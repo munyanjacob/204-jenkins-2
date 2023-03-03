@@ -2,7 +2,7 @@ import java.util.UUID;
 
 class Calculator {
 
-    tempsdflksdfjlksdjf Calculator() {
+    Calculator() {
 
     }
 
